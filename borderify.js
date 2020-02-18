@@ -8,4 +8,3 @@ document.querySelectorAll("div, section, article, span, header").forEach(element
 document.querySelectorAll("input").forEach(element => {
     element.style.border = "5px solid orange";
 })
-document.body.style.text-color = "orange";
