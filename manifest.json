@@ -16,5 +16,17 @@
           "js": ["borderify.js"]
         }
       ]
+     "browser_action": {
+        "default_icon": "icons/border-48.png",
+        "default_title": "Dark orange viever",
+        "default_popup": "viever.html"
+      },
+    
+      "web_accessible_resources": [
+        
+      ]
+    
+    }
+    
     
     }
