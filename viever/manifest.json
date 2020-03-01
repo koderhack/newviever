@@ -10,12 +10,7 @@
         "48": "icons/border-48.png"
       },
     
-      "content_scripts": [
-        {
-          "matches": ["*://*/*"],
-          "js": ["borderify.js"]
-        }
-      ]
+     
      "browser_action": {
         "default_icon": "icons/border-48.png",
         "default_title": "Dark orange viever",
